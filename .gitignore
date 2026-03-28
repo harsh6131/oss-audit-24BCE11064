@@ -1,0 +1,5 @@
+# macOS metadata
+.DS_Store
+
+# Generated manifesto files from Script 5
+manifesto_*.txt
